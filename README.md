@@ -33,5 +33,5 @@ Feel free to suggest improvements or add new insights!
 ---
 📧 For any questions, contact me at [farsanathesni02@gmail.com].
 
-🔗 Connect with me on LinkedIn [www.linkedin.com/in/farsana-thasnem-pa-03553631a]
+🔗 Connect with me on LinkedIn [www.linkedin.com/in/farsana-thasnem-pa]
 
