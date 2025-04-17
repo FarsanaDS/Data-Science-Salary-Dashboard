@@ -27,11 +27,5 @@ You can view the full interactive dashboard on **[Tableau Public](https://public
 - **Tableau Public** for data visualization
 - **GitHub** for sharing the dashboard
 
-## 📢 Contributions
-Feel free to suggest improvements or add new insights!
-
 ---
-📧 For any questions, contact me at [farsanathesni02@gmail.com].
-
-🔗 Connect with me on LinkedIn [www.linkedin.com/in/farsana-thasnem-pa]
-
+*This is a practice project. Created for learning purposes only.*
