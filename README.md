@@ -23,7 +23,7 @@ You can view the full interactive dashboard on **[Tableau Public](https://public
 2. Open it using **Tableau Public** or **Tableau Desktop**.
 3. Explore the insights interactively!
 
-## 🛠 Tools Used
+##  Tools Used
 - **Tableau Public** for data visualization
 - **GitHub** for sharing the dashboard
 
